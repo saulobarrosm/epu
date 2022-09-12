@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of `epu` is to provide easily extraction of EPU data sets from <https://www.policyuncertainty.com/china_monthly.html>
+The goal of `epu` is to provide easily extraction of EPU data sets from <https://www.policyuncertainty.com>
 
 ## Installation
 

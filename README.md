@@ -7,7 +7,7 @@
 <!-- badges: end -->
 
 The goal of `epu` is to provide easily extraction of EPU data sets from
-<https://www.policyuncertainty.com/china_monthly.html>
+<https://www.policyuncertainty.com>
 
 ## Installation
 
